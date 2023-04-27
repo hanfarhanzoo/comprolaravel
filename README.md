@@ -1,8 +1,3 @@
-# COMPROLARAVEL8
- Website Company Profile dengan Laravel 8. CMS ini dikembangkan oleh Java Web Media (www.javawebmedia.com). Versi demo dapat diakses di website http://comprolaravel8.javawebmedia.com.
- Semoga bermanfaat untuk teman-teman yang sedang belajar.
- Untuk panduan lengkap installasi silakan buka: https://javawebmedia.com/blog/download-source-code-website-company-profile-gratis-dibangun-dengan-laravel-8/
- 
  # Server Requirements
  Server Anda harus memenuhi kriteria ini:
 - PHP >= 7.3
